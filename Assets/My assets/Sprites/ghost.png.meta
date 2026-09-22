@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9209c2cba4a258c4fb89f5e035834b0d
+guid: 8e6289d7537678441ab1afbe25b91b61
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,51 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pig_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 921a0ecd848735f47b24264061de5b9f
-      internalID: -1965547360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pig_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f43e6a691988084385cac5b661af60f
-      internalID: -2018149107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pig_2
+      name: ghost_0
       rect:
         serializedVersion: 2
         x: 0
@@ -156,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74e0a4855e44b2941be63397d50b2af2
-      internalID: -646721098
+      spriteID: 873144fe601b3b443bc2cb5fdcbe6c66
+      internalID: -1215690756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pig_3
+      name: ghost_1
       rect:
         serializedVersion: 2
         x: 16
@@ -178,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2e9ea11d35f66241a9b55d199b51ac8
-      internalID: 7743394
+      spriteID: 013234cd386836446948a163357d317b
+      internalID: -1342007426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pig_4
+      name: ghost_2
       rect:
         serializedVersion: 2
         x: 0
@@ -200,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9f9ea3de098d8e4384474da58301147
-      internalID: -1427550921
+      spriteID: 91c1491dd6082cb4aae94e29a4d051c3
+      internalID: 1005578736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pig_5
+      name: ghost_3
       rect:
         serializedVersion: 2
         x: 16
@@ -222,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d258f2651df8d514e8872a6e0068b9b1
-      internalID: -1397059010
+      spriteID: a92fb2adc96c0d7478ebead356386ac9
+      internalID: 545098840
       vertices: []
       indices: 
       edges: []
@@ -232,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 40499918a7597ec4080d697e341bdb6d
+    spriteID: e4a0563e6f1dbf9479849bb42c832d88
     internalID: 0
     vertices: []
     indices: 
@@ -242,14 +198,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":3.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":2.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      pig_0: -1965547360
-      pig_1: -2018149107
-      pig_2: -646721098
-      pig_3: 7743394
-      pig_4: -1427550921
-      pig_5: -1397059010
+      ghost_0: -1215690756
+      ghost_1: -1342007426
+      ghost_2: 1005578736
+      ghost_3: 545098840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
