@@ -33,7 +33,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PigWalkRight
+  m_Name: MoveRight
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -116,7 +116,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PigWalkDown
+  m_Name: MoveDown
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -142,7 +142,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PigWalkUp
+  m_Name: MoveUp
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -168,7 +168,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PigWalkDown 0
+  m_Name: idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
