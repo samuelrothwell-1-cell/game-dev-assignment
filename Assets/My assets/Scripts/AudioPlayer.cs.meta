@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 823e3326d9ae4aa459532b3a47b55828
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eatPellet: {fileID: 8300000, guid: 1e026148c4dbc084397f1e6a5dd35a0b, type: 3}
+  - eatPowerPellet: {fileID: 8300000, guid: c5d3f2a5da5359641ac20b7ff88f0379, type: 3}
+  - MoveEmpty: {fileID: 8300000, guid: 46877156f0f59b946b56524473c81928, type: 3}
+  - backgroundBeats: {fileID: 8300000, guid: a62468d5f34fc734ebf82d71961c8e0e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -118,3 +118,5 @@ InitTestScene*.unity*
 /output/
 /submission-staging/
 /*_Assess3.zip
+/.vscode/
+/UpgradeLog.htm
